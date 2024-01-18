@@ -1,5 +1,5 @@
 name: 🛠️ 기능 구현
-description: 기능 구현
+description: 새로운 기능을 구현하기 위한 이슈를 작성해주세요
 title: "[Feature] : "
 labels: ["feature"]
 assignees:
@@ -7,8 +7,11 @@ assignees:
 body:
   - type: textarea
     attributes:
-      label: 기능 제안
-      description: 기능에 대한 설명을 적어주세요
-      placeholder: 기능에 대한 설명을 적어주세요
+      label: 기능 구현
+      description: 구현할 기능에 대한 설명을 적어주세요
+      placeholder: 구현할 기능에 대한 설명을 적어주세요
+      value: |
+        ## 구현 과정
+        <!-- 기능 구현에 있어 필요한 태스크를 나열해주세요 -->
     validations:
       required: true
