@@ -1,7 +1,8 @@
 name: 🐞 버그 제보
 description: 서비스 이용 중 발생한 버그를 제보해주세요
 title: "[Bug] : "
-labels: ["bug"]
+labels:
+  - "bug"
 assignees:
   - 
 body:

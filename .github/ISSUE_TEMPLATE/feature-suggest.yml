@@ -1,7 +1,8 @@
 name: 🛠️ 기능 구현
 description: 새로운 기능을 구현하기 위한 이슈를 작성해주세요
 title: "[Feature] : "
-labels: ["feature"]
+labels:
+  - "feature"
 assignees:
   - 
 body:
